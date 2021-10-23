@@ -1,0 +1,72 @@
+.navsection {
+    background-color: darkgray;
+}
+
+.nav {
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    background-color:#4d4d4d;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.body {
+
+}
+
+.left {
+    float: left;
+    width: 30%;
+    height: 800px;
+    background-color: blue;
+    display: inline-block;
+    text-align: center;
+}
+
+.right {
+    float: left;
+    width: 70%;
+    height: 1000px;
+    background-color: red;
+}
+
+.tophalf {
+    background-color: orange;
+    height: auto;
+    display: inline-block;
+}
+
+.bottomhalf {
+    background-color: green;
+    height: 70%;
+
+}
+
+#molly {
+    border-radius: 100%;
+width: 50%;
+margin: 20px;
+
+}
+
+ul{ 
+    list-style-type: none;
+    text-align: left;
+  }
+
+.hero {
+    
+      float: left;
+      padding-left: 20px;
+      padding: 20px;
+      display: block;
+  }
+
+  #heroimage {
+      width: 300px;
+      float: left;
+      padding
+  }
